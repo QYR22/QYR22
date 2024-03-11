@@ -1,4 +1,4 @@
-- getting bald
+- going bald
 
 
 <!---
